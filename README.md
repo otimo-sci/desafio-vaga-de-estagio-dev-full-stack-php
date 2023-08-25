@@ -54,5 +54,5 @@ O desafio consiste em implementar uma aplicação Web utilizando estrutura MVC e
 -	Comentários.
 
 # PRAZO
-- Desafio válido até 23:59 do dia 20 de Agosto de 2023;
+- Desafio válido até 23:59 do dia 5 de Setembro de 2023;
 - Submeter antes desta data constitui vantagem.
